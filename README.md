@@ -1,6 +1,5 @@
 # discord-bot-pemilu
-pemilu-dc.js is a
-simple discord bot to scrap data from a website
+basicly everytime bot called `!qc`a bot will scrape data from https://pemilu.bisnis.com/quick-count-2024
 
 ## Installation
 1. Clone the repository
