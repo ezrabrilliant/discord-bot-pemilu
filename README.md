@@ -1,5 +1,5 @@
 # discord-bot-pemilu
-basicly everytime bot called `!qc`a bot will scrape data from [pemilu.bisnis.com/quick-count-2024](https://pemilu.bisnis.com/quick-count-2024)
+basically everytime bot called `!qc` a bot will scrape data from [pemilu.bisnis.com/quick-count-2024](https://pemilu.bisnis.com/quick-count-2024) then the bot will reply to the user. 
 
 ## Installation
 1. Clone the repository
